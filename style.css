@@ -44,3 +44,23 @@ body {
     height:250px;
     object-fit:cover;
 }
+
+.info-section {
+    align-items:center;
+    display:flex;
+    flex-direction:column;
+    padding:50px;
+}
+
+.info-header {
+    font-size:36px;
+    color:#1F2937;
+    font-weight:900;
+    margin-bottom:20px;
+}
+
+.info-row {
+    display:flex;
+    justify-content:center;
+    gap:32px;
+}
