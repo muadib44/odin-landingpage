@@ -96,3 +96,28 @@ body {
     margin-top:16px;
 }
 
+.cta-section {
+    display:flex;
+    justify-content:center;
+    padding:50px 80px; 
+}
+
+.cta-container {
+    background-color:#3882F6;
+    border-radius:6px;
+    padding:20px 45px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    width:100px;
+}
+
+.cta-header {
+    font-weight:bold;
+    margin-bottom:4px;
+}
+
+.cta-button button {
+    border: 4px solid #E5E7EB;
+    border-radius:12px;
+}
