@@ -72,3 +72,26 @@ body {
     border-radius:12px;
     object-fit:cover;
 }
+
+.quote-section {
+    background-color:#E5E7EB;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    padding:60px 120px;
+}
+
+.quote {
+    font-size:36px;
+    color:#1F2937;
+    font-weight:300;
+    font-style:italic;
+}
+
+.quote-author {
+    font-size:24px;
+    font-weight:bold;
+    align-self:flex-end;
+    margin-top:16px;
+}
